@@ -1,0 +1,21 @@
+{
+  "name": "js-modules",
+  "version": "1.0.0",
+  "description": "A collection of useful modules that may be used in JavaScript applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendanprice2003/JS-Modules.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brendanprice2003/JS-Modules/issues"
+  },
+  "homepage": "https://github.com/brendanprice2003/JS-Modules#readme"
+}
